@@ -27,7 +27,7 @@ loadBook(); // не забываем вызвать функцию
 
 // git init 
 // Команды ниже мы скопировали в браузере
-// git remote add origin git@github.com:AlisherKhamidov/book.git
+// git remote add origin git@github.com:AlisherKhamidov/book.git // замените адрес
 // git add .
 // git commit -m "init"
 // git branch -M main
